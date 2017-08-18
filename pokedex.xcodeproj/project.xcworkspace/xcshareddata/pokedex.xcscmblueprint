@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "692E2DC9F5D12D256F1ADF6FBCAAE70D30414847" : 9223372036854775807,
+    "65BCF05E1474653BC70AD97D2A0E7AFA0411B336" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "41EAADFD-DDB3-4149-AB94-A3910B86F767",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "692E2DC9F5D12D256F1ADF6FBCAAE70D30414847" : "..\/..\/pokeapi",
+    "65BCF05E1474653BC70AD97D2A0E7AFA0411B336" : "..\/..\/..\/Movies\/Swift%203\/Working%20With%20REST%20&%20Web%20Requests%20on%20iOS%2010%20&%20Swift%203\/pokedex3"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pokedex",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pokedex.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jburgoyn\/pokedex3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65BCF05E1474653BC70AD97D2A0E7AFA0411B336"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PokeAPI\/pokeapi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "692E2DC9F5D12D256F1ADF6FBCAAE70D30414847"
+    }
+  ]
+}
